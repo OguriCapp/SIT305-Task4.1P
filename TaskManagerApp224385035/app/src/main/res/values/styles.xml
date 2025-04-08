@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomDatePickerDialog" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="colorPrimary">#2E7D32</item>
+        <item name="colorAccent">#2E7D32</item>
+        <item name="android:colorBackground">#E8F5E9</item>
+        <item name="android:textColorPrimary">#2E7D32</item>
+        <item name="android:textColorSecondary">#81C784</item>
+    </style>
+</resources> 
